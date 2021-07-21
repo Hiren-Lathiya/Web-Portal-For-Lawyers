@@ -17,7 +17,7 @@
 <body>
 		
 		<div class="form-group">
-                  <label>Add Profile Pic</label>
+                  <label>Add Profile Darpan</label>
 				  
                   <input type="file" id="profile-img" name="image" accept="image/png,image/jpg,image/jpeg" class="form-control" placeholder="">
 					<div id="myDiv" align="center"> 
